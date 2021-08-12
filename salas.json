@@ -1,0 +1,408 @@
+[
+  {
+    "id_sala": "Sala1",
+    "asientos": [
+      {
+        "fila": "1",
+        "asiento": "A"
+      },
+      {
+        "fila": "1",
+        "asiento": "B"
+      },
+      {
+        "fila": "1",
+        "asiento": "C"
+      },
+      {
+        "fila": "1",
+        "asiento": "D"
+      },
+      {
+        "fila": "1",
+        "asiento": "E"
+      },
+      {
+        "fila": "1",
+        "asiento": "F"
+      },
+      {
+        "fila": "1",
+        "asiento": "G"
+      },
+      {
+        "fila": "1",
+        "asiento": "H"
+      },
+      {
+        "fila": "1",
+        "asiento": "I"
+      },
+      {
+        "fila": "2",
+        "asiento": "A"
+      },
+      {
+        "fila": "2",
+        "asiento": "B"
+      },
+      {
+        "fila": "2",
+        "asiento": "C"
+      },
+      {
+        "fila": "2",
+        "asiento": "D"
+      },
+      {
+        "fila": "2",
+        "asiento": "E"
+      },
+      {
+        "fila": "2",
+        "asiento": "F"
+      },
+      {
+        "fila": "2",
+        "asiento": "G"
+      },
+      {
+        "fila": "2",
+        "asiento": "H"
+      },
+      {
+        "fila": "2",
+        "asiento": "I"
+      },
+      {
+        "fila": "3",
+        "asiento": "A"
+      },
+      {
+        "fila": "3",
+        "asiento": "B"
+      },
+      {
+        "fila": "3",
+        "asiento": "C"
+      },
+      {
+        "fila": "3",
+        "asiento": "D"
+      },
+      {
+        "fila": "3",
+        "asiento": "E"
+      },
+      {
+        "fila": "3",
+        "asiento": "F"
+      },
+      {
+        "fila": "3",
+        "asiento": "G"
+      },
+      {
+        "fila": "3",
+        "asiento": "H"
+      },
+      {
+        "fila": "3",
+        "asiento": "I"
+      },
+      {
+        "fila": "4",
+        "asiento": "A"
+      },
+      {
+        "fila": "4",
+        "asiento": "B"
+      },
+      {
+        "fila": "4",
+        "asiento": "C"
+      },
+      {
+        "fila": "4",
+        "asiento": "D"
+      },
+      {
+        "fila": "4",
+        "asiento": "E"
+      },
+      {
+        "fila": "4",
+        "asiento": "F"
+      },
+      {
+        "fila": "4",
+        "asiento": "G"
+      },
+      {
+        "fila": "4",
+        "asiento": "H"
+      },
+      {
+        "fila": "4",
+        "asiento": "I"
+      },
+      {
+        "fila": "5",
+        "asiento": "A"
+      },
+      {
+        "fila": "5",
+        "asiento": "B"
+      },
+      {
+        "fila": "5",
+        "asiento": "C"
+      },
+      {
+        "fila": "5",
+        "asiento": "D"
+      },
+      {
+        "fila": "5",
+        "asiento": "E"
+      },
+      {
+        "fila": "5",
+        "asiento": "F"
+      },
+      {
+        "fila": "5",
+        "asiento": "G"
+      },
+      {
+        "fila": "5",
+        "asiento": "H"
+      },
+      {
+        "fila": "5",
+        "asiento": "I"
+      }
+    ]
+  },
+  {
+    "id_sala": "Sala2",
+    "asientos": [
+      {
+        "fila": "1",
+        "asiento": "A"
+      },
+      {
+        "fila": "1",
+        "asiento": "B"
+      },
+      {
+        "fila": "1",
+        "asiento": "C"
+      },
+      {
+        "fila": "1",
+        "asiento": "D"
+      },
+      {
+        "fila": "1",
+        "asiento": "E"
+      },
+      {
+        "fila": "1",
+        "asiento": "F"
+      },
+      {
+        "fila": "1",
+        "asiento": "G"
+      },
+      {
+        "fila": "1",
+        "asiento": "H"
+      },
+      {
+        "fila": "1",
+        "asiento": "I"
+      },
+      {
+        "fila": "2",
+        "asiento": "A"
+      },
+      {
+        "fila": "2",
+        "asiento": "B"
+      },
+      {
+        "fila": "2",
+        "asiento": "C"
+      },
+      {
+        "fila": "2",
+        "asiento": "D"
+      },
+      {
+        "fila": "2",
+        "asiento": "E"
+      },
+      {
+        "fila": "2",
+        "asiento": "F"
+      },
+      {
+        "fila": "2",
+        "asiento": "G"
+      },
+      {
+        "fila": "2",
+        "asiento": "H"
+      },
+      {
+        "fila": "2",
+        "asiento": "I"
+      },
+      {
+        "fila": "3",
+        "asiento": "A"
+      },
+      {
+        "fila": "3",
+        "asiento": "B"
+      },
+      {
+        "fila": "3",
+        "asiento": "C"
+      },
+      {
+        "fila": "3",
+        "asiento": "D"
+      },
+      {
+        "fila": "3",
+        "asiento": "E"
+      },
+      {
+        "fila": "3",
+        "asiento": "F"
+      },
+      {
+        "fila": "3",
+        "asiento": "G"
+      },
+      {
+        "fila": "3",
+        "asiento": "H"
+      },
+      {
+        "fila": "3",
+        "asiento": "I"
+      },
+      {
+        "fila": "4",
+        "asiento": "A"
+      },
+      {
+        "fila": "4",
+        "asiento": "B"
+      },
+      {
+        "fila": "4",
+        "asiento": "C"
+      },
+      {
+        "fila": "4",
+        "asiento": "D"
+      },
+      {
+        "fila": "4",
+        "asiento": "E"
+      },
+      {
+        "fila": "4",
+        "asiento": "F"
+      },
+      {
+        "fila": "4",
+        "asiento": "G"
+      },
+      {
+        "fila": "4",
+        "asiento": "H"
+      },
+      {
+        "fila": "4",
+        "asiento": "I"
+      },
+      {
+        "fila": "5",
+        "asiento": "A"
+      },
+      {
+        "fila": "5",
+        "asiento": "B"
+      },
+      {
+        "fila": "5",
+        "asiento": "C"
+      },
+      {
+        "fila": "5",
+        "asiento": "D"
+      },
+      {
+        "fila": "5",
+        "asiento": "E"
+      },
+      {
+        "fila": "5",
+        "asiento": "F"
+      },
+      {
+        "fila": "5",
+        "asiento": "G"
+      },
+      {
+        "fila": "5",
+        "asiento": "H"
+      },
+      {
+        "fila": "5",
+        "asiento": "I"
+      },
+      {
+        "fila": "6",
+        "asiento": "A"
+      },
+      {
+        "fila": "6",
+        "asiento": "B"
+      },
+      {
+        "fila": "6",
+        "asiento": "C"
+      },
+      {
+        "fila": "6",
+        "asiento": "D"
+      },
+      {
+        "fila": "6",
+        "asiento": "E"
+      },
+      {
+        "fila": "6",
+        "asiento": "F"
+      },
+      {
+        "fila": "6",
+        "asiento": "G"
+      },
+      {
+        "fila": "6",
+        "asiento": "H"
+      },
+      {
+        "fila": "6",
+        "asiento": "I"
+      }
+    ]
+  }
+]

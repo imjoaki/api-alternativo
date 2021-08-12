@@ -1,0 +1,32 @@
+[
+  {
+    "id_funcion": "IT_SUB_14hs",
+    "hora_inicio": "14:00",
+    "hora_fin": "16:15",
+    "asientos": "52"
+  },
+  {
+    "id_funcion": "IT_SUB_16hs",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:45",
+    "asientos": "52"
+  },
+  {
+    "id_funcion": "IT_SUB_19hs",
+    "hora_inicio": "19:00",
+    "hora_fin": "21:15",
+    "asientos": "52"
+  },
+  {
+    "id_funcion": "Luca_DOB_14hs",
+    "hora_inicio": "14:00",
+    "hora_fin": "16:15",
+    "asientos": "40"
+  },
+  {
+    "id_funcion": "Luca_DOB_14hs",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:45",
+    "asientos": "40"
+  }
+]

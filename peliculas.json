@@ -1,0 +1,46 @@
+[
+  {
+    "id_pelicula": "it_sub",
+    "titulo": "IT",
+    "idioma": "Subtitulada",
+    "generos": "Terror",
+    "descripcion": "Pennywise no tiene forma fija, pero suele aparecer en forma de payaso. Mientras que en la novela es descrito como un cruce entre Bozo y Ronald McDonald, vestido con un traje enteramente plateado con botones naranjas y con una tonalidad de piel blanca",
+    "estreno": false,
+    "duracion": "1h 40min",
+    "calificacion": "+15",
+    "portada": "img"
+  },
+  {
+    "id_pelicula": "it_dob",
+    "titulo": "IT",
+    "idioma": "Doblada",
+    "generos": "Terror",
+    "descripcion": "Pennywise no tiene forma fija, pero suele aparecer en forma de payaso. Mientras que en la novela es descrito como un cruce entre Bozo y Ronald McDonald, vestido con un traje enteramente plateado con botones naranjas y con una tonalidad de piel blanca",
+    "estreno": false,
+    "duracion": "1h 40min",
+    "calificacion": "+15",
+    "portada": "img"
+  },
+  {
+    "id_pelicula": "luca_sub",
+    "titulo": "Luca",
+    "idioma": "Subtitulada",
+    "generos": "Fantasia, Animacion",
+    "descripcion": "Luca es un pequeño monstruo marino que descubre con fascinación la vida encima de la superficie gracias a su nuevo amigo Alberto, con quien tendrán que esconder sus verdaderas identidades para sobrevivir entre los humanos. ... Ese tema es el de la amistad",
+    "estreno": true,
+    "duracion": "1h 30min",
+    "calificacion": "+3",
+    "portada": "img"
+  },
+  {
+    "id_pelicula": "luca_dob",
+    "titulo": "Luca",
+    "idioma": "Doblada",
+    "generos": "Fantasia, Animacion",
+    "descripcion": "Luca es un pequeño monstruo marino que descubre con fascinación la vida encima de la superficie gracias a su nuevo amigo Alberto, con quien tendrán que esconder sus verdaderas identidades para sobrevivir entre los humanos. ... Ese tema es el de la amistad",
+    "estreno": true,
+    "duracion": "1h 30min",
+    "calificacion": "+3",
+    "portada": "img"
+  }
+]
