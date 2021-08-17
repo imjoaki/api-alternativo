@@ -1,0 +1,39 @@
+{
+  "Productos": [
+    {
+      "Nombre": "Notebook",
+      "Precio": 1200,
+      "Descripcion": "Notebook gamer con buena memoria y gran tarjeta grafica"
+    },
+    {
+      "Nombre": "Netbook",
+      "Precio": 500,
+      "Descripcion": "Netbook portable ideal para transportar tu trabajo contigo"
+    },
+    {
+      "Nombre": "Disco duro Portable",
+      "Precio": 75,
+      "Descripcion": "Disco duro de 2TB con USB 3.0"
+    },
+    {
+      "Nombre": "iPhone 12 64GB",
+      "Precio": 1000,
+      "Descripcion": "iPhone 12 con 64GB de memoria"
+    },
+    {
+      "Nombre": "Camara de Sony 40px",
+      "Precio": 700,
+      "Descripcion": "Camara digital Sony modelo 2021"
+    },
+    {
+      "Nombre": "Xiamoi Redmi Note 10 Lite",
+      "Precio": 850,
+      "Descripcion": "Xiaomi Redmi Note 10 Lite con 124GB de memoria"
+    },
+    {
+      "Nombre": "Power Bank",
+      "Precio": 100,
+      "Descripcion": "Power Bank de 4000 amperios"
+    }
+  ]
+}
