@@ -8,7 +8,7 @@
     "estreno": false,
     "duracion": "1h 40min",
     "calificacion": "+15",
-    "portada": "img"
+    "portada": "https://i0.wp.com/lascronicasdedeckard.com/wp-content/uploads/2019/09/It-2017-Las-Cronicas-de-Deckard-Portada.jpg?fit=830%2C495&ssl=1"
   },
   {
     "id_pelicula": "it_dob",
@@ -19,7 +19,7 @@
     "estreno": false,
     "duracion": "1h 40min",
     "calificacion": "+15",
-    "portada": "img"
+    "portada": "https://i0.wp.com/lascronicasdedeckard.com/wp-content/uploads/2019/09/It-2017-Las-Cronicas-de-Deckard-Portada.jpg?fit=830%2C495&ssl=1"
   },
   {
     "id_pelicula": "luca_sub",
@@ -30,7 +30,7 @@
     "estreno": true,
     "duracion": "1h 30min",
     "calificacion": "+3",
-    "portada": "img"
+    "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3E7E5D386EA2EF9860340097F6F253FA4BEF9E68CC88FCE4BA78CC6D5B7205F6/scale?width=1200&aspectRatio=1.78&format=jpeg"
   },
   {
     "id_pelicula": "luca_dob",
@@ -41,6 +41,6 @@
     "estreno": true,
     "duracion": "1h 30min",
     "calificacion": "+3",
-    "portada": "img"
+    "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3E7E5D386EA2EF9860340097F6F253FA4BEF9E68CC88FCE4BA78CC6D5B7205F6/scale?width=1200&aspectRatio=1.78&format=jpeg"
   }
 ]
